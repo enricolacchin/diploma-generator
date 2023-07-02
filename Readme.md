@@ -50,7 +50,7 @@ Feel free to experiment with the script and adjust it according to your specific
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
 
 Please refer to the license file for more information.
 
